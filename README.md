@@ -1,2 +1,2 @@
-GlossyDev private repo for storing internal and client files
+GlossyDev private repo for storing internal and client projects
 
